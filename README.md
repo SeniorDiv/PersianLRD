@@ -1,7 +1,7 @@
 #  Link Redirector Persian
 
-
-### روش نصب :
+<div dir="rtl">
+ روش نصب :
 
 1 - فایل کامل شده را از بخش ریلیز ها دانلود کنید
 
@@ -25,7 +25,10 @@ go.mc-realm.ir
 
 
 7 - سپس اسکریپت زیر رو توی هدر سایت خودتون قرار بدید :
+</div>
 <script src="https://go.mc-realm.ir/js/autolink.js" type="text/javascript"></script>
+<div dir="rtl">
 نکته : در اسکریپت بالا مجددا ادرس محل نصب اسکریپت رو با 
 go.mc-realm.ir
 جایگزین کنید
+</div>
