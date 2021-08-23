@@ -1,7 +1,7 @@
 #  Link Redirector Persian
 
 
-### Install :
+<h2 id="-" dir="rtl">نصب :</h2>
 <div dir="rtl">
 
 1 - فایل کامل شده را از بخش ریلیز ها دانلود کنید
