@@ -1,7 +1,8 @@
 #  Link Redirector Persian
 
+
+### Install :
 <div dir="rtl">
- روش نصب :
 
 1 - فایل کامل شده را از بخش ریلیز ها دانلود کنید
 
