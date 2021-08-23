@@ -1,5 +1,8 @@
 #  Link Redirector Persian
 
+<div dir="rtl">
+این یک اسکریپت کم حجم برای ساخت انتقال دهنده لینک برای سایت های شماست
+</div>
 
 <h2 id="-" dir="rtl">نصب :</h2>
 <div dir="rtl">
@@ -27,7 +30,9 @@ go.mc-realm.ir
 
 7 - سپس اسکریپت زیر رو توی هدر سایت خودتون قرار بدید :
 </div>
+```javascript
 <script src="https://go.mc-realm.ir/js/autolink.js" type="text/javascript"></script>
+```
 <div dir="rtl">
 نکته : در اسکریپت بالا مجددا ادرس محل نصب اسکریپت رو با 
 go.mc-realm.ir
