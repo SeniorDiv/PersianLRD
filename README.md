@@ -30,9 +30,13 @@ go.mc-realm.ir
 
 7 - سپس اسکریپت زیر رو توی هدر سایت خودتون قرار بدید :
 </div>
-```bash
-<script src="https://go.mc-realm.ir/js/autolink.js" type="text/javascript"></script>
+
 ```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 <div dir="rtl">
 نکته : در اسکریپت بالا مجددا ادرس محل نصب اسکریپت رو با 
 go.mc-realm.ir
