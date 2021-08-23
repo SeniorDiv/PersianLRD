@@ -30,7 +30,7 @@ go.mc-realm.ir
 
 7 - سپس اسکریپت زیر رو توی هدر سایت خودتون قرار بدید :
 </div>
-```
+```bash
 <script src="https://go.mc-realm.ir/js/autolink.js" type="text/javascript"></script>
 ```
 <div dir="rtl">
