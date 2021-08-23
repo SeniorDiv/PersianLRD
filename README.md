@@ -8,6 +8,7 @@
 <div dir="rtl">
 
 1 - فایل کامل شده را از بخش ریلیز ها دانلود کنید
+<a href="https://github.com/drdiamondblock/Link-Redirector-Persian/releases/latest">اخرین نسخه</a>
 
 2 - فایل فشرده را در سرور خود اپلود کنید و سپس از حالت فشرده خارج کنید
 
