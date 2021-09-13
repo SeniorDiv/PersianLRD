@@ -3,7 +3,7 @@
 <div dir="rtl">
 این یک اسکریپت کم حجم برای ساخت انتقال دهنده لینک برای سایت های شماست
   
-  <h4><a href="https://github.com/drdiamondblock/Link-Redirector-Persian/wiki/install">آموزش نصب</a></h4>
+  <a href="https://github.com/drdiamondblock/Link-Redirector-Persian/wiki/install">آموزش نصب</a>
 </div>
 
 
